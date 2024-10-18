@@ -1,4 +1,4 @@
-### Script LifeTime Gratis V1
+### AUTO SCRIPT BY ULTXL V1
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T++A+R+Y+A++B+L+I+T+A+R" />
@@ -19,7 +19,7 @@ Noobzvpn/Bot Tele
 
 Jika Ada Yg Eror Bs Fixcert,Restart Service .jika Drobear Error Bisa Pilih nmer 21 lalu nmer 7 & Nginx Haproxy Fix nmer 8 / 9
 
-https://wa.me/p/8285361161529756/6281931615811
+https://wa.me/+254785429940
 
 ### Bisa Donasi Seikhlasnya 🤣
 
