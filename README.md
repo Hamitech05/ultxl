@@ -1,7 +1,7 @@
 ### AUTO SCRIPT BY ULTXL V1
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T++A+R+Y+A++B+L+I+T+A+R" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T++U+L+T+X+L" />
 </p>
 
 ````
@@ -15,7 +15,7 @@ REKOMONDASI MAKEK DOMAIN SENDIRI.
 
 Multiport
 Ssh ws/udp/ssl/slowdns/vray/sadowsoks/
-Noobzvpn/Bot Tele
+Noobzvpn/Bot Telegram
 
 Jika Ada Yg Eror Bs Fixcert,Restart Service .jika Drobear Error Bisa Pilih nmer 21 lalu nmer 7 & Nginx Haproxy Fix nmer 8 / 9
 
@@ -49,4 +49,4 @@ Sedia AkunSsh Premium 10k isp indo & Sgdo
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/law.png)
 
 ### BISA HUBUNGI
-<a href="https://t.me/AryaBlitar" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6281931615811" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
+<a href="https://t.me/AryaBlitar" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/254785429940" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
